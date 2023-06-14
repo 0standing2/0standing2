@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Backend Developer
 
 
-<a href="https://standing1011.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-red?style=flat-square"/>
+
 [![Gmail Badge](https://img.shields.io/badge/ysyoung1011@sookmyung.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysyoung1011@sookmyung.ac.kr)](mailto:snugyun01@gmail.com)
 
 
